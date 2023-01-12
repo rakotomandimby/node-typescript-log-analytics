@@ -13,3 +13,7 @@ ${NODE_BIN}/npm install
 ${NODE_BIN}/npx tsc
 ${NODE_BIN}/node dist/app.js
 ```
+# The code
+
+The code is a [one-file straight one](./src/app.ts), in order to keep it very simple
+    
